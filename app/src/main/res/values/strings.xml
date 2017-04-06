@@ -1,0 +1,29 @@
+<resources>
+    <string name="articledetail_title">value here</string>
+    <string name="articledetail_copyright">value here</string>
+    <string name="articledetail_readmore">value here</string>
+    <string name="articledetail_timetoday">value here</string>
+    <string name="articledetail_timeyesterday">value here</string>
+    <string name="articledetail_timethisweek">value here</string>
+    <string name="articledetail_timethismonth">value here</string>
+    <string name="articledetail_timeolder">value here</string>
+
+    <string name="articles_title">value here</string>
+    <string name="articles_more">value here</string>
+    <string name="articles_mostread">value here</string>
+
+    <string name="feedback_title">value here</string>
+    <string name="feedback_explanation">value here</string>
+    <string name="feedback_submit">value here</string>
+    <string name="feedback_comment">value here</string>
+    <string name="feedback_commenthint">value here</string>
+    <string name="feedback_name">value here</string>
+    <string name="feedback_namehint">value here</string>
+
+    <string name="all_appname">value here</string>
+    <string name="all_ok">value here</string>
+    <string name="all_done">value here</string>
+    <string name="all_cancel">value here</string>
+    <string name="all_brandname">value here</string>
+
+</resources>

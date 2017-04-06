@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="height_toolbar">10dp</dimen>
+    <dimen name="height_tabbar">10dp</dimen>
+
+    <dimen name="width_articledetail_image">10dp</dimen>
+    <dimen name="width_articles_image">10dp</dimen>
+    <dimen name="width_articledetail_copyright">10dp</dimen>
+
+    <dimen name="size_logo">10dp</dimen>
+    <dimen name="size_socialbutton">10dp</dimen>
+    <dimen name="size_icon_small">10dp</dimen>
+    <dimen name="size_icon_medium">10dp</dimen>
+    <dimen name="size_icon_large">10dp</dimen>
+
+    <dimen name="margin_8dp">10dp</dimen>
+    <dimen name="margin_16dp">10dp</dimen>
+
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+
+    <dimen name="elevation_default">10dp</dimen>
+    <dimen name="elevation_focus">10dp</dimen>
+
+    <dimen name="keyline_image">10dp</dimen>
+    <dimen name="keyline_textafterimage">10dp</dimen>
+    <dimen name="keyline_text">10dp</dimen>
+
+    <dimen name="textsize_small">10dp</dimen>
+    <dimen name="textsize_medium">10dp</dimen>
+    <dimen name="textsize_large">10dp</dimen>
+
+
+</resources>
